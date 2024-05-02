@@ -2,6 +2,6 @@
 document.querySelector('.dots-p').textContent = ''
 document.querySelector('.dots-p').appendChild(document.createElement('div'))*/
 
-alert('Гойда');
+alert('Hello');
 
 
